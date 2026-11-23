@@ -6,13 +6,11 @@
 | --- | --- | --- |
 | 小院 | Lotus Pond · BiteMe Games | 保留作者的循环版，筝和笛适合轻巧上场 |
 | 桃溪 | Dragon Dance · BiteMe Games | 保留作者的循环版，用清晰鼓点撑起开阔野地和交战 |
-| 竹庭 | 故敌愁 · 乌鸦Producer | 取鼓点稳定的一段，编辑为游戏循环 |
+| 竹庭 | Wuxia2 (Orchestra) · PeriTune | 取 135 BPM 的战斗段，剪接成 24 小节循环并调整响度 |
 | 月宫 | Rivers and Mountains · ziniyeons | 取古筝、二胡和鼓推动的中段，编辑为游戏循环 |
 
-Music by [乌鸦Producer]. 曲目用于游戏内配乐，作者的原始发行包可从下方获取。
-
 - BiteMe Games《Chinese Game Music》，[CC0 与原始下载](https://bitemegames.itch.io/chinese-game-music)
-- 乌鸦Producer《Chinese style music Pack》，[作者的授权条款与原始下载](https://crowbacillus.itch.io/crows-free-commercial-music-pack-chinese-style-music-pack)
+- Music: “Wuxia2 (Orchestra)” by PeriTune. [原曲与下载](https://peritune.com/blog/2018/10/13/wuxia2/) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · 本游戏剪辑、循环处理并调整响度。
 - Music: “Rivers and Mountains” by ziniyeons. [曲目与原始下载](https://niftyshelf.com/music/rivers-and-mountains/) · [NiftyShelf 商业项目许可](https://niftyshelf.com/license/)
 - 竹庭的气质参考梅林茂为《十面埋伏》写的 [Bamboo Forest](https://www.youtube.com/watch?v=IZfN7eBypek)。游戏曲目仍是上表所列的授权作品。
 
